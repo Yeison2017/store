@@ -3,7 +3,7 @@ import { BrowserModule } from "@angular/platform-browser";
 
 import { MatSidenavModule } from "@angular/material/sidenav";
 import { MatGridListModule } from "@angular/material/grid-list";
-import { MatMenuModule } from "@angular/material/Menu";
+import { MatMenuModule } from "@angular/material/menu";
 import { MatButtonModule } from "@angular/material/button";
 import { MatCardModule } from "@angular/material/card";
 import { MatIconModule } from "@angular/material/icon";
