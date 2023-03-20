@@ -27,4 +27,4 @@ Este proyecto fue creado a partir del video tutorial de YouTube del canal "freec
 
 ## Link
 
-Puedes visitar la página web del proyecto en el siguiente enlace: [URL del sitio](https://1-porfolio-yha.netlify.app/)
+Puedes visitar la página web del proyecto en el siguiente enlace: [URL del sitio](https://an-store-yha.netlify.app/)
