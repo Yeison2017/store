@@ -20,7 +20,6 @@ A continuación se presentan capturas de pantalla de la página web en desktop:
 ![desktop2](./src/assets/screenshots/Desktop2.jpg)  
 ![desktop3](./src/assets/screenshots/Desktop3.jpg)
 ![desktop4](./src/assets/screenshots/Desktop4.jpg)  
-![desktop5](./src/assets/screenshots/Desktop5.jpg)  
 
 ## Créditos
 
