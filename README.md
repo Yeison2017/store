@@ -1,27 +1,31 @@
-# Store
+# Store - Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Este proyecto es una tienda en línea que permite comprar accesorios de diferentes categorías como camisetas, anillos, bolsos, celulares y más. Se puede filtrar por categoría de productos y cuenta con un carrito de compra para seleccionar los productos a comprar. 
 
-## Development server
+La página está en inglés y se utilizaron tecnologías como Angular, Stripe, Tailwind, Angular Material UI y el API de Fakestoreapi para mostrar los productos con sus precios.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologías principales
 
-## Code scaffolding
+![icono de Angular](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675897057/Iconos/Angular_ixnav0.png) Angular  
+![icono de Stripe](https://res.cloudinary.com/dyvccdkkl/image/upload/v1679344839/Iconos/Stripe_wvfb7a.png) Stripe  
+![icono de Tailwind](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675900964/Iconos/Tailwind_ulewag.png) Tailwind  
+![icono de Angular Material UI](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675897057/Iconos/AngularMaterialUI_drwmft.png) Angular Material UI  
+![icono de Netlify](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676957754/Iconos/Netlify_yxm0xq.png) Netlify  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Capturas de pantalla
 
-## Build
+A continuación se presentan capturas de pantalla de la página web en desktop:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![desktop1](./src/assets/screenshots/Desktop1.jpg)  
+![desktop2](./src/assets/screenshots/Desktop2.jpg)  
+![desktop3](./src/assets/screenshots/Desktop3.jpg)
+![desktop4](./src/assets/screenshots/Desktop4.jpg)  
+![desktop5](./src/assets/screenshots/Desktop5.jpg)  
 
-## Running unit tests
+## Créditos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Este proyecto fue creado a partir del video tutorial de YouTube del canal "freecodecamp.org" en el siguiente enlace: https://www.youtube.com/watch?v=Kbauf9IgsC4&list=PLSvtEtsyp826ID5XmG3Y_YFBNswA1NK77.
 
-## Running end-to-end tests
+## Link
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Puedes visitar la página web del proyecto en el siguiente enlace: [URL del sitio](https://1-porfolio-yha.netlify.app/)
